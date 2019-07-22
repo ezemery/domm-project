@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/domm-project/static/css/main.e5f70087.chunk.css",
+    "main.js": "/domm-project/static/js/main.e852eaad.chunk.js",
+    "main.js.map": "/domm-project/static/js/main.e852eaad.chunk.js.map",
+    "runtime~main.js": "/domm-project/static/js/runtime~main.997af9ba.js",
+    "runtime~main.js.map": "/domm-project/static/js/runtime~main.997af9ba.js.map",
+    "static/css/2.4234f707.chunk.css": "/domm-project/static/css/2.4234f707.chunk.css",
+    "static/js/2.0c1cc52d.chunk.js": "/domm-project/static/js/2.0c1cc52d.chunk.js",
+    "static/js/2.0c1cc52d.chunk.js.map": "/domm-project/static/js/2.0c1cc52d.chunk.js.map",
+    "index.html": "/domm-project/index.html",
+    "precache-manifest.0aec9c91fe3738b3a0b2477c022df25e.js": "/domm-project/precache-manifest.0aec9c91fe3738b3a0b2477c022df25e.js",
+    "service-worker.js": "/domm-project/service-worker.js",
+    "static/css/2.4234f707.chunk.css.map": "/domm-project/static/css/2.4234f707.chunk.css.map",
+    "static/css/main.e5f70087.chunk.css.map": "/domm-project/static/css/main.e5f70087.chunk.css.map",
+    "static/media/App.css": "/domm-project/static/media/download.e75700b8.png",
+    "static/media/semantic.min.css": "/domm-project/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/integrations.png": "/domm-project/static/media/integrations.0c31c6a7.png",
+    "static/media/middle_aged_woman.png": "/domm-project/static/media/middle_aged_woman.e17fee8e.png",
+    "static/media/phone.png": "/domm-project/static/media/phone.039c8217.png"
+  }
+}
