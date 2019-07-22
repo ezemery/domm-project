@@ -1,0 +1,344 @@
+.ui.inverted.grey.segment{
+  padding:0px;
+  background-color: #fff  !important;
+}
+
+.ui.secondary.inverted.pointing.menu{
+  border: none;
+}
+
+.ui.inverted.green.menu, .ui.inverted.menu .green.active.item {
+  background-color: #88D20F;
+}
+
+.ui.inverted.green.menu .active.item{
+  background-color: transparent !important; 
+  border: none;
+}
+
+.ui.basic.green.button.start-btn{
+  background-color: #fff !important;
+  box-shadow: none;
+}
+
+h1.ui.header{
+  font-family: Muli;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 50px;
+  line-height: 80px;
+  color: #2B4403;
+}
+
+.ui.header+p {
+  font-family: Muli;
+  font-style: light;
+  line-height: 25px;
+  color: #3D3D3D;
+}
+
+.attached-button{
+  width:450px;
+}
+
+.padlock{
+  padding-top:15px;
+  width: 100px
+}
+
+.ui.attached.segment{
+  border-color: #88D20F;
+  -webkit-box-shadow: 4px 13px 67px -3px rgba(0,0,0,0.28);
+  -moz-box-shadow: 4px 13px 67px -3px rgba(0,0,0,0.28);
+  box-shadow: 4px 13px 67px -3px rgba(0,0,0,0.28);
+}
+
+.ui.attached.segment .ui.form input[type=email] {
+  background: transparent !important;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid rgba(0,0,0,0.28);
+}
+
+.ui.attached{
+  background: transparent !important;
+}
+
+.ui.attached.bottom.button.signup-btn{
+  background-color: #88D20F !important;
+}
+
+.ui.attached.bottom.button .signup-content{
+  display: flex;
+  align-items: center;
+}
+
+.ui.attached.bottom.button .signup-content p{
+  flex:2 0 0;
+  margin: 0px;
+  text-transform: uppercase;
+  color:#fff;
+  font-family: muli;
+  padding:5px 15px 5px 5px;
+  border-right: 1px solid #fff;
+}
+
+.ui.attached.bottom.button .signup-content .image{
+  flex:1 0 0;
+  width: 100px;
+  align-self: center;
+  padding-left: 20px;
+}
+
+h3.ui.header.intro-section{
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 2em;
+  line-height: 30px;
+  text-align: center;
+  color: #2B4403;
+}
+
+.ui.card.intro-cards{
+  width: 376px;
+  box-shadow:none;
+  padding:10px;
+
+}
+.ui.card.intro-cards:hover{
+  -webkit-box-shadow: 4px 13px 67px -3px rgba(0,0,0,0.06);
+  -moz-box-shadow: 4px 13px 67px -3px rgba(0,0,0,0.06);
+  box-shadow: 4px 13px 67px -3px rgba(0,0,0,0.06);
+}
+
+.ui.card .intro-icons{
+  margin-bottom: 40px;
+}
+
+.ui.card .intro-header{
+  margin-bottom: 20px;
+}
+
+.ui.card .intro-meta{
+  margin-bottom: 20px;
+}
+
+.ui.card .intro-desc{
+  margin-bottom: 40px;
+}
+
+
+.ui.card.review-cards{
+  width: 376px;
+  box-shadow:none;
+  padding:20px;
+  background-color: #FBFDF7 !important;
+}
+
+.ui.card.review-cards:hover{
+  background-color: #fff;
+  -webkit-box-shadow: 4px 13px 67px -3px rgba(0,0,0,0.06);
+  -moz-box-shadow: 4px 13px 67px -3px rgba(0,0,0,0.06);
+  box-shadow: 4px 13px 67px -3px rgba(0,0,0,0.06);
+}
+
+.review-icons{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.ui.card>.content>.header.review-header{
+  padding: 20px 0;
+  font-size: 23px;
+  color: #2B4403;
+}
+
+.ui.card>.content>.header+.description.review-desc{
+  margin-bottom: 40px;
+  line-height: 20px;
+}
+
+.review-profile{
+  display: flex;
+}
+
+.review-profile p{
+  padding-left: 25px;
+}
+
+.ui.list .list-item{
+padding:30px 0;
+}
+
+.list-button{
+  width: 195px;
+  height: 50px;
+  color:#fff !important;
+  background-color: #88D20F !important;
+}
+
+.ui.segment {
+  border: none;
+  box-shadow: none;
+  margin: 0;
+}
+.ui.segment .sticker-section{
+  display: flex;
+  flex-direction: column;
+  height: 293px;
+  background: url("../assets/banner.png") no-repeat center center;
+  
+}
+
+.customer-section{
+  height: 293px;
+  background: url("../assets/customers.png") no-repeat center center;
+  
+}
+
+.ui.segment .download-section{
+  display: flex;
+  flex-wrap: wrap;
+  height: 333px;
+  padding-top: 5%;
+  padding-left: 15%;
+  background: url("../assets/download.png") no-repeat center center;
+  
+}
+
+.ui.ui.segment .download-section-btn{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: -50px 0 0 70px;
+}
+
+.ui.segment .download-section .ui.header  {
+  color:#fff;
+  font-size:2em;
+  text-align: left;
+}
+
+.install-btn{
+  margin-top: 20px;
+}
+.install-btn .ui.labeled.icon.button{
+  border-color: #88D20F;
+  color: #88D20F;
+}
+
+
+.integration-section .border-box {
+  border: 1px solid #E2E2E2;
+  box-sizing: border-box;
+  padding: 40px 40px 0px 40px;
+  margin-top: 50px;
+  border-radius: 5px;
+  width: 400px;
+}
+
+.integration-section p{
+  padding: 15px 0;
+  font-size: 15px;
+}
+.ui.labeled.icon.button, .ui.labeled.icon.button>.icon{
+  background: #fff !important;
+  border: 1px solid #3D3D3D;
+}
+
+.ui.labeled.icon.button:hover, .ui.labeled.icon.button>.icon:hover{
+  border-color: #88D20F;
+  color: #88D20F;
+}
+
+.ui.labeled.icon.button>.icon{
+  border:none;
+}
+
+h5.ui.header.list-header{
+  font-family: Muli;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #2B4403;
+}
+
+
+p.list-content{
+  font-family: Muli;
+  font-style: light;
+  font-size: 15px;
+  color: #2B4403;
+}
+
+.footer h3.ui.header{
+  color:#2B4403;
+}
+
+.footer .ui.link.list a.item{
+  color:#2B4403;
+  line-height: 30px;
+}
+@media only screen and (max-width: 767px){
+  .attached-button{
+    width:350px;
+    margin: auto;
+  }
+  h1.ui.header {
+    line-height: 50px;
+  }
+
+  .padlock{
+    margin: auto;
+  }
+
+  .customer-section{
+    height: 293px;
+    background: url("../assets/mobile-customers.png") no-repeat center center;
+    
+  }
+
+  .integration-section .border-box{
+    width:100%;
+  }
+  .ui.segment .download-section{
+    padding: 10px;
+  }
+  .ui.segment .download-section .ui.header  {
+    text-align: center;
+    font-size: 20px;
+    margin: auto;
+  }
+  .ui.ui.segment .download-section-btn{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0px;
+    width: 400px;
+  }
+  .download-section-btn .ui.medium.image {
+    width: 150px;
+    height: 50px;
+  }
+}
+
+@media only screen and (min-width: 1200px){
+  .ui.container{
+    margin-left:50px !important ; 
+    margin-right: 0 !important; 
+  }
+
+  .ui.large.image.logo{
+    left: 50px;
+    width: 100px;
+    height: auto;
+  }
+
+  .ui.large.image.banner{
+    left: 40%;
+    top: 30%;
+    width: 700px;
+  }
+}
